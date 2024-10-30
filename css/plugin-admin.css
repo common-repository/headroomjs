@@ -1,0 +1,134 @@
+/**
+ * RTL support
+ */
+
+p.desc {
+	padding: 0 22px 8px 0;
+}
+
+p.desc.label {
+	padding: 2px 180px 10px 0;
+}
+
+div.wppluginbox ul {
+	margin-right: 20px;
+	margin-left: auto;
+}
+
+.postbox {
+	margin: 10px 0 0 10px;	
+}
+
+label {
+	display:block;
+	font-weight:bold;
+	margin:0 0 5px 0;
+	
+}
+
+input.textinput, textarea.textinput, select.select, input.checkbox {
+	margin: 0px 0 0px 0px;
+}
+input.checkbox {
+	margin-right:10px;
+	float:left;	
+}
+
+label.radio {
+	margin-left: 20px;
+	margin-left: auto;
+}
+
+table.wpplugin_help th, table.wpplugin_help td {
+	text-align: right;
+}
+
+.button.fixit {
+	float: left;
+}
+
+pre {
+	direction: ltr;
+}
+
+#pointer-primary {
+	margin: 0 0 0 5px;
+}
+
+.wpplugin-heading {
+	padding-left: 0;
+	padding-right: 10px;
+}
+
+.wpplugin_yahoo_kw {
+	margin: 3px 0 3px 8px;
+}
+
+table.wppluginanalysis th {
+	text-align: right;
+}
+
+table.wppluginanalysis td.score {
+	padding-left: 0;
+	padding-right: 10px;
+}
+
+#app_links {
+	display:block;
+	margin-bottom:5px;
+	overflow: auto;
+}
+
+.clear {
+	clear:both;
+	display:block;	
+}
+
+.row {
+	clear:both;
+	display:block;	
+	margin:10px 0;
+	overflow:auto;
+	padding:10px;
+}
+.even {
+	background:#e8e8e8
+}
+pre {
+}
+code{
+	margin:0;
+	line-height:21px;
+	display:block;
+}
+
+.app_links_options {
+	display:block;
+	margin-top:20px;	
+	clear:both;
+}
+.app_links_example pre.prettyprint {
+	border:0;	
+}
+
+.app_links_property {
+	float:left;
+	margin-right:10px;	
+	width:200px;
+}
+.app_links_content {
+	float:left;	
+	width:200px;
+}
+.app_links_value {
+	float:left;
+}
+.app_links_custom {
+	display:none;
+}
+.show {
+	display:inline-block;	
+}
+.hide {
+	display:none;	
+}
